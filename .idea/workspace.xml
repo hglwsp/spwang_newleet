@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26a5aece-8bcb-4770-a177-d8da6dbb2a03" name="Changes" comment="spwang leetcode with git" />
+    <list default="true" id="26a5aece-8bcb-4770-a177-d8da6dbb2a03" name="Changes" comment="spwang leetcode with git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,26 +50,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.leet_1.executor": "Run",
-    "Python.leet_1071.executor": "Run",
-    "Python.leet_1137.executor": "Run",
-    "Python.leet_136.executor": "Run",
-    "Python.leet_1431.executor": "Run",
-    "Python.leet_1768.executor": "Run",
-    "Python.leet_215.executor": "Run",
-    "Python.leet_9.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.leet_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1071.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1137.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_136.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1431.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1768.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_215.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_2215.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.leet_2215">
     <configuration name="leet_1137" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="spwang_newleet" />
@@ -268,6 +271,7 @@
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_9.coverage" NAME="leet_9 Coverage Results" MODIFIED="1736742470882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_1768.coverage" NAME="leet_1768 Coverage Results" MODIFIED="1736767140762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_1.coverage" NAME="leet_1 Coverage Results" MODIFIED="1736742027893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$leet_2215.coverage" NAME="leet_2215 Coverage Results" MODIFIED="1736770961315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_1071.coverage" NAME="leet_1071 Coverage Results" MODIFIED="1736768580636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_215.coverage" NAME="leet_215 Coverage Results" MODIFIED="1736770482527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_1431.coverage" NAME="leet_1431 Coverage Results" MODIFIED="1736769228303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
