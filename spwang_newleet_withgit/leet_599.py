@@ -17,5 +17,5 @@ class Solution:
                     flag = i + dic[list2[i]]
         return res
 
-test = Solution()
+test = Solution()   ###
 print(test.findRestaurant(["Shogun","Tapioca Express","Burger King","KFC"],["KFC","Shogun","Burger King"]))
