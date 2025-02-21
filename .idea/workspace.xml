@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26a5aece-8bcb-4770-a177-d8da6dbb2a03" name="Changes" comment="20250217leet1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="26a5aece-8bcb-4770-a177-d8da6dbb2a03" name="Changes" comment="20250217leet1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,72 +49,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for app_mock.TestApp.test_get_status_success.executor": "Run",
-    "Python tests.Python tests for app_mock.mockApp.executor": "Run",
-    "Python tests.Python tests for app_test.TestApp.test_get_status_failure.executor": "Run",
-    "Python tests.Python tests for test_app.TestApp.test_get_status_success.executor": "Run",
-    "Python tests.Python tests for test_app.test_get_status_success.executor": "Run",
-    "Python tests.Python tests in app_mock.py.executor": "Run",
-    "Python tests.Python tests in app_test.py.executor": "Run",
-    "Python tests.Python tests in test_app.py.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.client.executor": "Run",
-    "Python.leet_1.executor": "Run",
-    "Python.leet_1027.executor": "Run",
-    "Python.leet_1071.executor": "Run",
-    "Python.leet_1137.executor": "Run",
-    "Python.leet_1189.executor": "Run",
-    "Python.leet_1207.executor": "Run",
-    "Python.leet_1287.executor": "Run",
-    "Python.leet_136.executor": "Run",
-    "Python.leet_1431.executor": "Run",
-    "Python.leet_1679.executor": "Run",
-    "Python.leet_17.executor": "Run",
-    "Python.leet_172.executor": "Run",
-    "Python.leet_1732.executor": "Run",
-    "Python.leet_1748.executor": "Run",
-    "Python.leet_1768.executor": "Run",
-    "Python.leet_20.executor": "Run",
-    "Python.leet_215.executor": "Run",
-    "Python.leet_2215.executor": "Run",
-    "Python.leet_2239.executor": "Run",
-    "Python.leet_238.executor": "Run",
-    "Python.leet_2390.executor": "Run",
-    "Python.leet_3065.executor": "Run",
-    "Python.leet_334.executor": "Run",
-    "Python.leet_35.executor": "Run",
-    "Python.leet_39.executor": "Run",
-    "Python.leet_392.executor": "Run",
-    "Python.leet_40.executor": "Run",
-    "Python.leet_412.executor": "Run",
-    "Python.leet_434.executor": "Run",
-    "Python.leet_46.executor": "Run",
-    "Python.leet_47.executor": "Run",
-    "Python.leet_506.executor": "Run",
-    "Python.leet_594.executor": "Run",
-    "Python.leet_605.executor": "Run",
-    "Python.leet_643.executor": "Run",
-    "Python.leet_657.executor": "Run",
-    "Python.leet_67.executor": "Run",
-    "Python.leet_724.executor": "Run",
-    "Python.leet_744.executor": "Run",
-    "Python.leet_77.executor": "Run",
-    "Python.leet_9.executor": "Run",
-    "Python.leet_922.executor": "Run",
-    "Python.leet_94.executor": "Run",
-    "Python.leet_lcr_90.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for app_mock.TestApp.test_get_status_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for app_mock.mockApp.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for app_test.TestApp.test_get_status_failure.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_app.TestApp.test_get_status_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_app.test_get_status_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in app_mock.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in app_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_app.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1071.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1137.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1189.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1207.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1287.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_136.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1431.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1679.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_172.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1732.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1748.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_1768.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_215.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_2215.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_2239.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_238.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_2390.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_3065.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_334.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_39.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_392.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_412.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_434.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_46.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_47.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_506.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_594.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_605.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_643.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_657.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_67.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_724.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_744.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_77.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_922.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_94.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_lcr_90.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.leet_lcr_90">
     <configuration name="leet_39" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="spwang_newleet" />
@@ -299,7 +297,7 @@
       <workItem from="1739520556400" duration="5412000" />
       <workItem from="1739760915719" duration="4837000" />
       <workItem from="1739862411955" duration="8608000" />
-      <workItem from="1739931285395" duration="6009000" />
+      <workItem from="1739931285395" duration="6048000" />
     </task>
     <task id="LOCAL-00001" summary="spwang leetcode with git">
       <option name="closed" value="true" />
