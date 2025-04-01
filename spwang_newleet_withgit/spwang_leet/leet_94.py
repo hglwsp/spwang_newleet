@@ -18,7 +18,8 @@ class Solution:
             zs(root.left)
             res.append(root.val)
             zs(root.right)
-            return res
+        zs(root)
+        return res
 
 test = Solution()
 print(test.inorderTraversal(TreeNode(1,None,TreeNode(2,TreeNode(3)))))

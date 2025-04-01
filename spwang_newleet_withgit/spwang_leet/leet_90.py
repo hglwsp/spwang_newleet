@@ -1,22 +1,22 @@
 class Solution:
-    def permuteUnique(self, nums):
+    def subsetsWithDup(self, nums):
         res = []
         path = []
         used = [False for _ in range(len(nums))]
-        def backtrack(nums, used, path):
-            if len(path) == len(nums) and path not in res:
+        def backtrack(nums, path, used,index):
+            if path not in res:
                 res.append(path[:])
+            if index == len(nums):
                 return
-            for i in range(len(nums)):
+            for i in range(index, len(nums)):
                 if used[i]:
                     continue
                 used[i] = True
                 path.append(nums[i])
-                backtrack(nums, used, path)
+                backtrack(nums, path, used, i+1)
                 used[i] = False
                 path.pop()
-        backtrack(nums, used, path)
+        backtrack(nums, path, used, 0)
         return res
-
 test = Solution()
-print(test.permuteUnique([1,1,2]))
+print(test.subsetsWithDup([1,2,2]))

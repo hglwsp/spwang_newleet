@@ -1,0 +1,12 @@
+test_name: 访问百度首页
+steps:
+  - request:
+      method: get
+      url: https://www.baidu.com
+  - extract:
+      code: [status_code, (.*), 0]
+  - validate:
+      equals:
+        状态码断言:
+          - 201
+          - ${code}

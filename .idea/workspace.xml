@@ -6,7 +6,78 @@
   <component name="ChangeListManager">
     <list default="true" id="26a5aece-8bcb-4770-a177-d8da6dbb2a03" name="Changes" comment="20250217leet1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/leet_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/bigfile_cookie.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/bigfile_cookie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/code4login.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/code4login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_100.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1027.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_1027.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1071.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_1071.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1137.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_1137.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1189.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_1189.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1207.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_1207.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_121.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1287.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_1287.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_136.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1431.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_1431.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1679.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_1679.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_169.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1693.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_1693.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_172.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1732.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_1732.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1748.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_1748.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_1768.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_1768.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_215.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_2215.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_2215.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_2239.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_2239.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_238.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_2390.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_2390.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_2656.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_2656.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_283.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_2879.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_2879.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_3065.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_3065.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_3289.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_3289.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_334.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_349.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_35.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_350.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_374.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_39.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_392.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_40.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_404.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_412.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_434.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_46.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_47.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_506.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_530.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_56.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_563.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_575.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_594.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_594.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_599.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_599.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_605.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_605.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_643.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_643.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_657.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_657.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_67.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_724.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_724.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_744.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_744.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_77.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_90.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_922.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_922.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_94.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_941.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_941.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/leet_lcr_90.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_lcr_90.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_bugmirror/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_bugmirror/client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_bugmirror/test_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/test_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spwang_newleet_withgit/test_app.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +94,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="llzzmm" />
+        <entry key="$PROJECT_DIR$" value="hglwsp0214" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,89 +126,101 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for app_mock.TestApp.test_get_status_success.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for app_mock.mockApp.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for app_test.TestApp.test_get_status_failure.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_app.TestApp.test_get_status_success.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_app.test_get_status_success.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in app_mock.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in app_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_app.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.client.executor&quot;: &quot;Run&quot;,
-    &quot;Python.code4login.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_1027.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_1071.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_1137.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_1189.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_1207.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_1287.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_136.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_1431.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_1679.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_172.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_1732.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_1748.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_1768.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_215.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_2215.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_2239.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_238.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_2390.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_3065.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_3289.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_334.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_35.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_39.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_392.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_40.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_404.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_412.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_434.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_46.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_47.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_506.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_530.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_56.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_563.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_594.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_605.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_643.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_657.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_67.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_724.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_744.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_77.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_90.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_922.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_94.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_941.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_lcr_90.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ShowMaker/PycharmProjects/spwang_newleet/spwang_newleet_withgit&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for app_mock.TestApp.test_get_status_success.executor": "Run",
+    "Python tests.Python tests for app_mock.mockApp.executor": "Run",
+    "Python tests.Python tests for app_test.TestApp.test_get_status_failure.executor": "Run",
+    "Python tests.Python tests for test_app.TestApp.test_get_status_success.executor": "Run",
+    "Python tests.Python tests for test_app.test_get_status_success.executor": "Run",
+    "Python tests.Python tests for test_baidu.test_baidu.executor": "Run",
+    "Python tests.Python tests in app_mock.py.executor": "Run",
+    "Python tests.Python tests in app_test.py.executor": "Run",
+    "Python tests.Python tests in test_app.py.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.client.executor": "Run",
+    "Python.code4login.executor": "Run",
+    "Python.leet_0103.executor": "Run",
+    "Python.leet_1.executor": "Run",
+    "Python.leet_1027.executor": "Run",
+    "Python.leet_1071.executor": "Run",
+    "Python.leet_1137.executor": "Run",
+    "Python.leet_1189.executor": "Run",
+    "Python.leet_1207.executor": "Run",
+    "Python.leet_1287.executor": "Run",
+    "Python.leet_136.executor": "Run",
+    "Python.leet_1431.executor": "Run",
+    "Python.leet_144.executor": "Run",
+    "Python.leet_15 (1).executor": "Run",
+    "Python.leet_15.executor": "Run",
+    "Python.leet_1679.executor": "Run",
+    "Python.leet_17.executor": "Run",
+    "Python.leet_172.executor": "Run",
+    "Python.leet_1732.executor": "Run",
+    "Python.leet_1748.executor": "Run",
+    "Python.leet_1768.executor": "Run",
+    "Python.leet_20.executor": "Run",
+    "Python.leet_215.executor": "Run",
+    "Python.leet_2215.executor": "Run",
+    "Python.leet_2239.executor": "Run",
+    "Python.leet_238.executor": "Run",
+    "Python.leet_2390.executor": "Run",
+    "Python.leet_3.executor": "Run",
+    "Python.leet_3065.executor": "Run",
+    "Python.leet_3289.executor": "Run",
+    "Python.leet_334.executor": "Run",
+    "Python.leet_35.executor": "Run",
+    "Python.leet_39.executor": "Run",
+    "Python.leet_392.executor": "Run",
+    "Python.leet_40.executor": "Run",
+    "Python.leet_404.executor": "Run",
+    "Python.leet_412.executor": "Run",
+    "Python.leet_434.executor": "Run",
+    "Python.leet_46.executor": "Run",
+    "Python.leet_47.executor": "Run",
+    "Python.leet_506.executor": "Run",
+    "Python.leet_530.executor": "Run",
+    "Python.leet_56.executor": "Run",
+    "Python.leet_563.executor": "Run",
+    "Python.leet_594.executor": "Run",
+    "Python.leet_605.executor": "Run",
+    "Python.leet_643.executor": "Run",
+    "Python.leet_657.executor": "Run",
+    "Python.leet_67.executor": "Run",
+    "Python.leet_724.executor": "Run",
+    "Python.leet_744.executor": "Run",
+    "Python.leet_77.executor": "Run",
+    "Python.leet_78.executor": "Run",
+    "Python.leet_9.executor": "Run",
+    "Python.leet_90.executor": "Run",
+    "Python.leet_922.executor": "Run",
+    "Python.leet_94.executor": "Run",
+    "Python.leet_941.executor": "Run",
+    "Python.leet_lcr_90.executor": "Run",
+    "Python.list_to_tree.executor": "Run",
+    "Python.ltt_de.executor": "Run",
+    "Python.manage.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ShowMaker/PycharmProjects/spwang_newleet/spwang_newleet_withgit",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ShowMaker\PycharmProjects\spwang_newleet\spwang_newleet_withgit" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ShowMaker\PycharmProjects\spwang_newleet\spwang_newleet_withgit\spwang_leet" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.code4login">
-    <configuration name="code4login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.leet_90">
+    <configuration name="leet_144" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="spwang_newleet" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,12 +229,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spwang_newleet_withgit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spwang_newleet_withgit/code4login.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_144.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leet_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leet_47" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="spwang_newleet" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,12 +252,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spwang_newleet_withgit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spwang_newleet_withgit/leet_15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_47.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leet_530" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leet_78" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="spwang_newleet" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,12 +275,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spwang_newleet_withgit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spwang_newleet_withgit/leet_530.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_78.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leet_56" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leet_90" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="spwang_newleet" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,12 +298,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spwang_newleet_withgit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spwang_newleet_withgit/leet_56.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/leet_90.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +312,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leet_941" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ltt_de" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="spwang_newleet" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,12 +321,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spwang_newleet_withgit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spwang_newleet_withgit/leet_941.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet/ltt_de.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,11 +360,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.code4login" />
-        <item itemvalue="Python.leet_15" />
-        <item itemvalue="Python.leet_56" />
-        <item itemvalue="Python.leet_941" />
-        <item itemvalue="Python.leet_530" />
+        <item itemvalue="Python.leet_90" />
+        <item itemvalue="Python.leet_78" />
+        <item itemvalue="Python.leet_47" />
+        <item itemvalue="Python.leet_144" />
+        <item itemvalue="Python.ltt_de" />
       </list>
     </recent_temporary>
   </component>
@@ -326,6 +409,16 @@
       <workItem from="1740983573665" duration="2516000" />
       <workItem from="1741067798171" duration="1018000" />
       <workItem from="1741161190083" duration="1225000" />
+      <workItem from="1741337417851" duration="6561000" />
+      <workItem from="1741344002539" duration="4467000" />
+      <workItem from="1741402241819" duration="14076000" />
+      <workItem from="1741589119037" duration="3037000" />
+      <workItem from="1741785221670" duration="118000" />
+      <workItem from="1742212715148" duration="745000" />
+      <workItem from="1742303240459" duration="4202000" />
+      <workItem from="1743232731648" duration="3358000" />
+      <workItem from="1743242099415" duration="139000" />
+      <workItem from="1743430533481" duration="1186000" />
     </task>
     <task id="LOCAL-00001" summary="spwang leetcode with git">
       <option name="closed" value="true" />
@@ -416,15 +509,32 @@
     <MESSAGE value="20250217leet1" />
     <option name="LAST_COMMIT_MESSAGE" value="20250217leet1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spwang_newleet_withgit/wsp_bugmirror/settings.py</url>
+          <line>138</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spwang_newleet_withgit/wsp_bugmirror/settings.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_1768.coverage" NAME="leet_1768 Coverage Results" MODIFIED="1736767140762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_1189.coverage" NAME="leet_1189 Coverage Results" MODIFIED="1739199068322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
-    <SUITE FILE_PATH="coverage/spwang_newleet$leet_172.coverage" NAME="leet_172 Coverage Results" MODIFIED="1739351799983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_1287.coverage" NAME="leet_1287 Coverage Results" MODIFIED="1739761015762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$leet_172.coverage" NAME="leet_172 Coverage Results" MODIFIED="1739351799983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_1027.coverage" NAME="leet_1027 Coverage Results" MODIFIED="1738897597603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
-    <SUITE FILE_PATH="coverage/spwang_newleet$leet_1679.coverage" NAME="leet_1679 Coverage Results" MODIFIED="1737858504647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_169.coverage" NAME="leet_169 Coverage Results" MODIFIED="1739176926003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
-    <SUITE FILE_PATH="coverage/spwang_newleet$leet_47.coverage" NAME="leet_47 Coverage Results" MODIFIED="1739863476996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$leet_1679.coverage" NAME="leet_1679 Coverage Results" MODIFIED="1737858504647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$leet_47.coverage" NAME="leet_47 Coverage Results" MODIFIED="1743430697280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$list_to_tree.coverage" NAME="list_to_tree Coverage Results" MODIFIED="1743235735497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_506.coverage" NAME="leet_506 Coverage Results" MODIFIED="1739783490137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_56.coverage" NAME="leet_56 Coverage Results" MODIFIED="1740983886179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_724.coverage" NAME="leet_724 Coverage Results" MODIFIED="1738743482276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
@@ -438,20 +548,25 @@
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_922.coverage" NAME="leet_922 Coverage Results" MODIFIED="1739782832418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_412.coverage" NAME="leet_412 Coverage Results" MODIFIED="1739761480610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_2239.coverage" NAME="leet_2239 Coverage Results" MODIFIED="1737342340622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$ltt_de.coverage" NAME="ltt_de Coverage Results" MODIFIED="1743236006172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_744.coverage" NAME="leet_744 Coverage Results" MODIFIED="1739522141366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_40.coverage" NAME="leet_40 Coverage Results" MODIFIED="1739867527102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$leet_0103.coverage" NAME="leet_0103 Coverage Results" MODIFIED="1742212810553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$manage.coverage" NAME="manage Coverage Results" MODIFIED="1741344555900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_594.coverage" NAME="leet_594 Coverage Results" MODIFIED="1739862954788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$leet_144.coverage" NAME="leet_144 Coverage Results" MODIFIED="1743236038649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_121.coverage" NAME="leet_121 Coverage Results" MODIFIED="1739176576905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_530.coverage" NAME="leet_530 Coverage Results" MODIFIED="1740554963683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_334.coverage" NAME="leet_334 Coverage Results" MODIFIED="1738835175965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_1.coverage" NAME="leet_1 Coverage Results" MODIFIED="1736742027893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_2215.coverage" NAME="leet_2215 Coverage Results" MODIFIED="1736770961315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$leet_15__1_.coverage" NAME="leet_15 (1) Coverage Results" MODIFIED="1741345812210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
     <SUITE FILE_PATH="coverage/spwang_newleet$client.coverage" NAME="client Coverage Results" MODIFIED="1739258441805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_643.coverage" NAME="leet_643 Coverage Results" MODIFIED="1736855541894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_39.coverage" NAME="leet_39 Coverage Results" MODIFIED="1739864179636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_1137.coverage" NAME="leet_1137 Coverage Results" MODIFIED="1736770044927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$app.coverage" NAME="app Coverage Results" MODIFIED="1739256797382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
-    <SUITE FILE_PATH="coverage/spwang_newleet$leet_94.coverage" NAME="leet_94 Coverage Results" MODIFIED="1740552285928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$leet_94.coverage" NAME="leet_94 Coverage Results" MODIFIED="1743233404754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_3065.coverage" NAME="leet_3065 Coverage Results" MODIFIED="1736853088592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_1071.coverage" NAME="leet_1071 Coverage Results" MODIFIED="1736768580636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_1748.coverage" NAME="leet_1748 Coverage Results" MODIFIED="1739523465544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
@@ -462,14 +577,16 @@
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_2390.coverage" NAME="leet_2390 Coverage Results" MODIFIED="1737343340272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_3289.coverage" NAME="leet_3289 Coverage Results" MODIFIED="1740126908919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_599.coverage" NAME="leet_599 Coverage Results" MODIFIED="1739179560756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
-    <SUITE FILE_PATH="coverage/spwang_newleet$.coverage" NAME=" Coverage Results" MODIFIED="1739260669670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$.coverage" NAME=" Coverage Results" MODIFIED="1741590486352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_67.coverage" NAME="leet_67 Coverage Results" MODIFIED="1739267776703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_238.coverage" NAME="leet_238 Coverage Results" MODIFIED="1737091616630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_434.coverage" NAME="leet_434 Coverage Results" MODIFIED="1739520956486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_9.coverage" NAME="leet_9 Coverage Results" MODIFIED="1736742470882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$leet_78.coverage" NAME="leet_78 Coverage Results" MODIFIED="1743431566557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_605.coverage" NAME="leet_605 Coverage Results" MODIFIED="1736853743891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$leet_3.coverage" NAME="leet_3 Coverage Results" MODIFIED="1742306652221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_20.coverage" NAME="leet_20 Coverage Results" MODIFIED="1739266551689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
-    <SUITE FILE_PATH="coverage/spwang_newleet$leet_90.coverage" NAME="leet_90 Coverage Results" MODIFIED="1740551005789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
+    <SUITE FILE_PATH="coverage/spwang_newleet$leet_90.coverage" NAME="leet_90 Coverage Results" MODIFIED="1743431663103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit/spwang_leet" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_404.coverage" NAME="leet_404 Coverage Results" MODIFIED="1740472318088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_lcr_90.coverage" NAME="leet_lcr_90 Coverage Results" MODIFIED="1739959846459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
     <SUITE FILE_PATH="coverage/spwang_newleet$leet_563.coverage" NAME="leet_563 Coverage Results" MODIFIED="1740469307084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spwang_newleet_withgit" />
