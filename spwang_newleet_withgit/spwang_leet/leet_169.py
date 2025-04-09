@@ -1,10 +1,17 @@
 from collections import defaultdict
 class Solution:
     def majorityElement(self, nums):
-        dic = defaultdict(int)
-        for num in nums:
-            dic[num]+=1
-        for k,v in dic.items():
+        # dic = defaultdict(int)
+        # for num in nums:
+        #     dic[num]+=1
+        # for k,v in dic.items():
+        #     if v > len(nums)//2:
+        #         return k
+
+        d = defaultdict(int)
+        for i in nums:
+            d[i]+=1
+        for k,v in d.items():
             if v > len(nums)//2:
                 return k
 
