@@ -1,31 +1,29 @@
 import requests
-import time
 import json
 
-def time_decorator(func):
-    def wrapper(*args, **kwargs):
-        start_time = time.time()  # 记录开始时间
-        print("start...")
-        result = func(*args, **kwargs)  # 执行原函数
-        end_time = time.time()  # 记录结束时间
-        print("end...")
-        elapsed_time = end_time - start_time  # 计算耗时
-        print(f"Function {func.__name__} took {elapsed_time:.4f} seconds to execute.")
-        return result
-    return wrapper
-
-@time_decorator
-def chat_with_ai():
+def chat_with_ai(requirement):
     history = []
     url = "http://localhost:11434/api/generate"
     while True:
-        user_input = input("You: ")
-        if user_input.lower() in ["exit", "quit"]:
-            print("Exiting chat...")
-            break
+        # user_input = input("You: ")
+        # if user_input.lower() in ["exit", "quit"]:
+        #     print("Exiting chat...")
+        #     break
+        system_prompt = """
+                你是一位专业的测试用例生成专家，需要遵循以下规则：
+                1. 输出必须为严格的JSON格式
+                2. 每个测试用例包含：用例ID、测试场景、前置条件、输入数据、预期结果
+                3. 用例ID采用TC-四位数字格式（如TC-0001）
+                4. 测试场景需覆盖正常流程和异常分支
+                5. 输入数据需包含所有必要参数及其约束条件
+                """
         payload = {
             "model": "deepseek-r1:latest",
-            "prompt": user_input,
+            # "prompt": user_input,
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": requirement}
+            ],
             "options": {
                 "temperature": 0.8,
                 "max_tokens": 512,
@@ -61,7 +59,7 @@ def chat_with_ai():
             print()  # 添加换行符以便于阅读
             print(f"AI (complete): {ai_response}")
 
-            history.append(user_input)
+            history.append(requirement)
             history.append(ai_response)
         except Exception as e:
             print("******************.")
@@ -69,56 +67,20 @@ def chat_with_ai():
             print(f"Response: {response.text}")
 
 if __name__ == "__main__":
-    print("Welcome to the AI Chatbot for test!")
-    print("Type 'exit' or 'quit' to end the chat.")
-    chat_with_ai()
-"""
-根据提供的接口信息，生成接口测试用例，并以json格式返回。
-json格式需包含请求体、请求头。接口信息如下：
-{
-  "基础信息": {
-    "customerId": "字符串", // 客户 ID
-    "orderId": "字符串" // 订单唯一标识符
-  },
-  
-  "商品信息": {
-    "productTitle": "字符串", // 商品标题
-    "productName": "字符串", // 商品名称
-    "size": "字符串", // 商品尺寸
-    "quantity": 数字 // 商品数量
-  },
-  
-  "订单基本信息": {
-    "orderStartTime": "字符串", // 订单开始时间（如YYYY-MM-DD HH:mm:ss）
-    "estimatedTime": "字符串" // 预计完成时间
-  },
-  
-  "支付信息": {
-    "paymentMethod": "字符串", // 支付方式（如信用卡、美元等）
-    "paymentAmount": 数字, // 支付金额
-    "paymentType": "字符串" // 支付类型（如在线支付、支票等）
-  },
-  
-  "配送信息": {
-    "ship_to_address": 地址对象, // 发货地址
-    "deliveryTime": "字符串", // 预计送达时间
-    "运费选项": 数组 // 运费选项描述
-  },
-  
-  "优惠/折扣": {
-    "availableCoupons": 数组 // 可用优惠券列表
-  },
-  
-  "订单附加": {
-    "isBulkOrder": 布尔值, // 是否为批量订单
-    "totalInBatch": 数字, // 批量商品总价
-    "priceWithoutTax": 数字 // 不包含税费的总金额
-  },
-  
-  "额外选项": {
-    "includeInvoice": 布尔值, // 是否生成发票
-    "trackId": "字符串", // 跟踪号
-    "returnPolicy": "字符串" // 退货政策描述
-  }
-}
-"""
+    print("Welcome to the AI Chatbot!")
+    # 定义测试需求
+    requirement = """
+    测试对象：航班预订系统
+    功能描述：
+    - 支持单程/往返机票查询
+    - 价格显示需含税费（总价=票价+燃油费+机场税）
+    - 婴儿票（0-2岁）价格为成人票10%
+    - 改签规则：起飞前24小时外免费改签
+    业务规则：
+    - 同一乘客同航班只能预订一张票
+    - 信用卡支付需验证CVV码
+    - 积分兑换需至少10000积分
+    """
+    chat_with_ai(requirement)
+
+

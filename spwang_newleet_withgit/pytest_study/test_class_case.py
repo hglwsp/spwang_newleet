@@ -5,6 +5,7 @@
 # @Time     : 2023/2/10 16:52
 # @Copyright: 北京码同学
 from requests_study.token_study import login
+import pytest
 
 
 class TestLogin:
@@ -40,3 +41,15 @@ class TestLogin:
         # 判断响应信息中的code是否是0
         code = resp.json()['code']
         assert code == '1'
+
+
+def test_example():
+    x = 5
+
+    y = 10
+
+    pytest.assume(x == y)  # 第一个断言
+
+    pytest.assume(x > y)  # 第二个断言
+
+    pytest.assume(x % 2 == 0)  # 第三个断言

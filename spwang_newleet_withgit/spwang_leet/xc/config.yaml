@@ -1,0 +1,18 @@
+# yaml rules for (name,email,address)
+fields:
+  - name: username
+    type: string
+    generator: random_string
+    min_length: 3
+    max_length: 20
+    regex: ^[A-Za-z]{3,20}$
+  - name: email
+    type: string
+    generator: random_email
+    regex: ^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$
+  - name: age
+    type: integer
+    generator: random_integer
+    min_value: 18
+    max_value: 65
+    regex: ^(1[89]|[2-5]\d|6[0-5])$

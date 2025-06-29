@@ -2,6 +2,9 @@ import requests
 import time
 import json
 
+from IPython.core.debugger import prompt
+
+
 def time_decorator(func):
     def wrapper(*args, **kwargs):
         start_time = time.time()  # 记录开始时间
@@ -19,12 +22,49 @@ def chat_with_ai():
     history = []
     url = "http://localhost:11434/api/generate"
     while True:
-        user_input = input("You: ")
-        if user_input.lower() in ["exit", "quit"]:
+        prompt = """
+                你是一位专业的测试用例生成专家，需要遵循以下规则：
+                1. 输出必须为严格的JSON格式
+                2. 每个测试用例包含：用例ID、测试场景、前置条件、输入数据、预期结果
+                3. 用例ID采用TC-四位数字格式（如TC-0001）
+                4. 测试场景需覆盖正常流程和异常分支
+                5. 输入数据需包含所有必要参数及其约束条件
+                """
+
+        system_message = """
+        你是一位专业的测试用例编写专家，能够根据需求精确生成高质量的测试用例。
+        重要规则：
+        1. 确保每个用例ID唯一，避免重复
+        2. 采用清晰的Markdown格式输出
+        3. 确保测试用例覆盖关键功能路径和边界条件
+        输出格式：
+        ```markdown
+        ## 测试用例集
+        ### 用例ID：[模块]_[功能]_[序号]
+        **优先级**：P0/P1/P2/P3
+        **标题**：简明描述测试目的
+        **前置条件**：
+        - 条件1
+        - 条件2
+        **步骤**：
+        1. 第一步
+        2. 第二步
+        **预期结果**：
+        - 具体的预期结果
+        [重复上述模板直到达到指定的用例数量]
+        ## 总结
+        - 测试覆盖度：描述测试覆盖的方面
+        - 建议：任何关于测试执行的建议
+        """
+
+        userfirstinput = input("You: ")
+        user_input = system_message + userfirstinput
+        print(user_input)
+        if userfirstinput.lower() in ["exit", "quit"]:
             print("Exiting chat...")
             break
         payload = {
-            "model": "deepseek-r1:latest",
+            "model": "deepseek-r1:7b",
             "prompt": user_input,
             "options": {
                 "temperature": 0.8,
@@ -71,3 +111,5 @@ def chat_with_ai():
 if __name__ == "__main__":
     print("Welcome to the AI Chatbot!")
     chat_with_ai()
+
+
